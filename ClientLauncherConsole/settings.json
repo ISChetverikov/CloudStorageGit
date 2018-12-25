@@ -1,0 +1,8 @@
+﻿{
+  "InputFolder": "Sync",
+  "LogFolder": "Log",
+  "TempFolder": "Temp",
+  "ServerAddress": "http://localhost:4567/",
+  "IsScheduled": false,
+  "SchedulePeriod": "01:00:00"
+}
